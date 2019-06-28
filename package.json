@@ -1,0 +1,19 @@
+{
+  "name": "tenjin-file",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "chrisjandrade@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "md5-file": "^4.0.0",
+    "mmmagic": "^0.5.3",
+    "winston": "^3.2.1"
+  }
+}
